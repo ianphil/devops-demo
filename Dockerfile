@@ -1,6 +1,6 @@
 #New Comment
 FROM node:latest
-MAINTAINER mike.coleman@docker.com
+MAINTAINER ian.philpot@microsoft.com
 
 # set default workdir
 WORKDIR /usr/src
